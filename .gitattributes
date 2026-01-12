@@ -1,0 +1,2 @@
+AutoTest.rar filter=lfs diff=lfs merge=lfs -text
+AutoTest1.rar filter=lfs diff=lfs merge=lfs -text
