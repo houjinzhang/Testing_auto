@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# archive
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# python
+__pycache__/
+*.pyc
